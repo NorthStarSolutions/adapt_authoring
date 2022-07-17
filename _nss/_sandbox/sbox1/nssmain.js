@@ -1,0 +1,1 @@
+alert("This is an expected external popup message from the ext nssmain js file");
